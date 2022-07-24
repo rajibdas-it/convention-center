@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+
+.my-font {
+  font-family: "Poppins", sans-serif;
+}
+
+.banner {
+  margin-top: 100px;
+}
+.packages {
+  margin-top: 100px;
+}
+
+.my-border {
+  border: 1px solid salmon;
+}
+.my-bg {
+  background-color: #edecf9;
+}
+.tik-clr {
+  color: #5243c2;
+}
+
+.card-title-clr {
+  color: #231d4f;
+}
+.card-text-clr {
+  color: #8c899f;
+}
